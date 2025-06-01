@@ -31,6 +31,7 @@ Este projeto simula uma biblioteca simples, com menu interativo no terminal. A i
 - Gera carteirinhas dos leitores
 - Mostra o livro mais popular (com base em quantos leitores diferentes pegaram)
 - Mostra um histórico das ações realizadas
+- (Sub/Exame) Lista todos leitores cadastrados no sistema
 
 As ações são todas feitas através de um menu simples, direto no terminal.
 
